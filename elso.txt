@@ -1,0 +1,3 @@
+szöveg 1 
+szöveg 2
+sggsgit branch
